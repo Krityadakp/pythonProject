@@ -1,7 +1,6 @@
 *** Settings ***
 Library    BuiltIn
 Library    RequestsLibrary
-Library    JSONLibrary
 
 *** Variables ***
 ${url_fact}  https://catfact.ninja
